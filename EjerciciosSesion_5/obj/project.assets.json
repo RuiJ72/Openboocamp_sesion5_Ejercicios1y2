@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rui Lagos\\Documents\\Bootcamp\\EjerciciosSesion_5\\EjerciciosSesion_5\\EjerciciosSesion_5.csproj",
-      "projectName": "EjerciciosSesion_5",
-      "projectPath": "C:\\Users\\Rui Lagos\\Documents\\Bootcamp\\EjerciciosSesion_5\\EjerciciosSesion_5\\EjerciciosSesion_5.csproj",
+      "projectUniqueName": "C:\\Users\\Rui Lagos\\Documents\\Bootcamp\\EjerciciosSesion_5\\EjerciciosSesion_5\\EjerciciosSesion_5_ejercicio1.csproj",
+      "projectName": "EjerciciosSesion_5_ejercicio1",
+      "projectPath": "C:\\Users\\Rui Lagos\\Documents\\Bootcamp\\EjerciciosSesion_5\\EjerciciosSesion_5\\EjerciciosSesion_5_ejercicio1.csproj",
       "packagesPath": "C:\\Users\\Rui Lagos\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Rui Lagos\\Documents\\Bootcamp\\EjerciciosSesion_5\\EjerciciosSesion_5\\obj\\",
       "projectStyle": "PackageReference",

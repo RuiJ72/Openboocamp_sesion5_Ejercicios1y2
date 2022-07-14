@@ -40,6 +40,7 @@ switch (escojer)
         Console.WriteLine("Has elegido el lenguaje de programación: Kotlin");
         break;
     case 8:
+    default:
         Console.WriteLine("Tu elección se basa en un lenguaje de programación que no está en la lista");
         break;
 
